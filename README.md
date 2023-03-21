@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @adi777sawant
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...Aritificial intelligence and machine learning
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in AIML
+- 🌱 I’m currently learning B.Tech In CSE
 - 📫 How to reach me ...sawantadi1756@gmail.com
 
 <!---
